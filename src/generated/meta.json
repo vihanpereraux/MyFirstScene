@@ -1,0 +1,12 @@
+{
+  "useRapier": true,
+  "license": null,
+  "allowHotReload": true,
+  "gzip": false,
+  "generator": "Unity 2022.3.11f1, Needle Engine Integration @3.20.1",
+  "needleEditor": null,
+  "sceneName": "My First Scene",
+  "meta": null,
+  "absolutePath": "https://localhost:3000",
+  "deployOnly": false
+}
